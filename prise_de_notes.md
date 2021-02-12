@@ -55,13 +55,14 @@ Au vu de ses paroles engagées, le groupe trouve important d'avoir la présence 
 
 11. Avez-vous un visuel par rapport a l'EP?
     
-   Oui, le client vas nous le transmettre.
+      Oui, le client vas nous le transmettre.
+
 
 12. Est-ce que l'univers graphique vas être décliné autre part que sur le site?
 
-   La prochaine étape est de sortir un album et de donc d'utilisé cette charte. Sous réserve de droits d'auteur?
+    La prochaine étape est de sortir un album et de donc d'utilisé cette charte. Sous réserve de droits d'auteur?
 
-   C'est-à-dire que PanKart peut être considéré comme premier client.
+      C'est-à-dire que PanKart peut être considéré comme premier client.
 
 13. Dans les pages de présentation, doit-on avoir une page spécifique par musiciens?
 
@@ -75,7 +76,7 @@ Au vu de ses paroles engagées, le groupe trouve important d'avoir la présence 
 
     * Oui, il n'y a pas de soucis même si dans le brief cette partie n'est pas précisée.
 
-   Dans le futur, il y a la possibilité de vendre d'autre article.
+      Dans le futur, il y a la possibilité de vendre d'autre article.
 
 16. La charte graphique présente peut-être modifiée ou pas du tout.
    
@@ -83,4 +84,4 @@ Au vu de ses paroles engagées, le groupe trouve important d'avoir la présence 
 
 17. Pour la page coup de gueule?
 
-   Le format de cette page sera sous forme de "blog", partage d'avis à la façon de twitter, qui allie le visuel du textuel.
+    Le format de cette page sera sous forme de "blog", partage d'avis à la façon de twitter, qui allie le visuel du textuel.
