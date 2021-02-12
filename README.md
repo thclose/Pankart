@@ -10,4 +10,8 @@ Ce repo a été créé dans le cadre d'un projet de la HEPL.
 
 ## Plan du site 
 
+<a href="plan_site.md">Plan du site</a>
+
 ## Concept
+
+<a href="concept.md">Concept</a>
