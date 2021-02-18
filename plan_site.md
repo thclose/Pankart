@@ -1,4 +1,4 @@
-# Structure, Plan du site, Concept
+# Structure, Plan du site
 
 **Sommaires :**
 
