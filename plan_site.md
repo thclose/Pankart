@@ -10,7 +10,7 @@
     - Bio
         - du groupe
         - des 6 musicos : une page de présentation pour chacun des membres du - groupe et dont le contenu serait un peu délirant (texte et photos)
-    - Galerie
+    - Galerie 
         - Photos
         - Vidéos
     - News pour celle du groupe, mais aussi nos coups de cœur et de gueule
@@ -18,6 +18,7 @@
     - Contact et booking
     - Cerise sur le cake : une tête de Mathieu Michel (ou Stéphane Moreau, - bref interchangeable en fonction des « stars » faisant l’actualité) - sur laquelle on peut jouer à lancer des Panꓘart …
     - Sans oublier la Privacy Policy, RGPD oblige
+  
 - Liens vers
     - Gigstarter pour le booking
     - Nos réseaux sociaux
