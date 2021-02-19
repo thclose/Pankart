@@ -15,3 +15,8 @@ Ce repo a été créé dans le cadre d'un projet de la HEPL.
 ## Concept
 
 <a href="concept.md">Concept</a>
+
+## Moodboard
+[Lien vers milanote](https://app.milanote.com/1Ld0e91zxVkL5w?p=2tvGwAqP6nK)
+
+![moodboard](moodboard.png)
