@@ -19,4 +19,4 @@ Ce repo a été créé dans le cadre d'un projet de la HEPL.
 ## Moodboard
 [Lien vers milanote](https://app.milanote.com/1Ld0e91zxVkL5w?p=2tvGwAqP6nK)
 
-![moodboard](moodboard.png)
+![moodboard](./img/moodboard.png)
