@@ -1,6 +1,6 @@
 # Pankart
 
-Ce repo a été créé dans le cadre d'un projet de la HEPL.
+Ce repo a été créé dans le cadre d'un projet de la HEPL. (https://github.com/hepl-dw/projet-pankart)
 
 ## Prise de note et briefing
 
