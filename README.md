@@ -149,16 +149,20 @@ Au vu de ses paroles engagées, le groupe trouve important d'avoir la présence 
 
 
 
-## Concept
 
 ## Stratégie
 
-> Ce document va décrire l'expérience utilisateur sur toutes les pages
+* Objectif
+
+L'objectif traduit par ce site est de se faire connaitre le groupe par le plus grand nombre de personnes et de facilité l'acces au groupe pour un organisateur.
 
 * Page agenda concert
 
-Cette page permettra d'acoir une vue d'ensemble sur l'agenda du groupe, possibilité de trier les dates par lieux, ...
+Cette page permettra d'avoir une vue d'ensemble sur l'agenda du groupe, possibilité de trier les dates par lieux, ...
 
+Elle s'organisera comme un agenda calssique, c-a-d avec une liste triée et grouper par date, sous chaque date il y aura l'/les événement(s) lié(s) a cette dernière.
+
+L'événement sera composé d'un titre, d'une description et d'un localisation.
 
 * Page paroles de leurs chansons
 
@@ -175,7 +179,7 @@ Sur cette page, sera présent la bio du groupe (voir brief). en dessous de ce te
 
 * Gallerie Photos
 
-Cette page permettra de présenter les photos choisient par le groupe.
+Cette page permettra de présenter les photos choisient par le groupe grâce à un carroussel sur la partie haute de la page. Sur la deuxième partie de la page, il y aura une gallerie photo. Quand on cliquera sur cette dernière il y aura une visualisation en plein écran de l'image choisie.
 
 * Gallerie Videos
 
