@@ -1,12 +1,78 @@
 # Pankart
 
-Ce repo a été créé dans le cadre d'un projet de la HEPL. (https://github.com/hepl-dw/projet-pankart)
+> Ce repo a été créé dans le cadre d'un projet de la HEPL. (https://github.com/hepl-dw/projet-pankart)
 
-## Plan de site
+---
+## Sommaire
 
-### Structure, Plan du site
+1. Stratégie
+
+2. Plan du site
+
+3. Wireframe
+
+4. Prise de note
+
+---
+
+## Stratégie
+
+* Objectif
+
+	L'objectif traduit par ce site est de se faire connaitre le groupe par le plus grand nombre de personnes et de facilité l'acces au groupe pour un organisateur.
+
+* Page agenda concert
+
+	Cette page permettra d'avoir une vue d'ensemble sur l'agenda du groupe, possibilité de trier les dates par lieux, ...
+
+	Elle s'organisera comme un agenda calssique, c-a-d avec une liste triée et grouper par date, sous chaque date il y aura l'/les événement(s) lié(s) a cette dernière.
+
+	L'événement sera composé d'un titre, d'une description et d'un localisation.
+
+* Page paroles de leurs chansons
+
+	Cette page servira à lister premièrement toutes les chansons, avec la possibilité de les écouter.
+
+	Quand on cliquera sur la chanson choisie on sera redirigé sur une page avec les paroles pt aussi avec les commentaires du groupes qui expliquera les paroles et peut etre une partie annecdotes sur la musique.
+
+* Bio du groupe
+
+	Sur cette page, sera présent la bio du groupe (voir brief). en dessous de ce texte, la photo personnelle de chaque membres du groupe qui redirigera vers la bio personnelle de chaque membres.
+
+     Bio chacun des membres: sur cette page on y retrouvera la description du membre 
 
 
+* Gallerie Photos
+
+	Cette page permettra de présenter les photos choisient par le groupe grâce à un carroussel sur la partie haute de la page. Sur la deuxième partie de la page, il y aura une gallerie photo. Quand on cliquera sur cette dernière il y aura une visualisation en plein écran de l'image choisie.
+
+* Gallerie Videos
+
+	Idem photo (pt sur la même page)
+
+* Page News
+
+	Cette page présentera les articles de presse qui mettent en avant les actualités du groupe.
+
+* Page coups de coeur
+
+	Cette page mettra en avant les articles d'actualités qui ont interpellé le groupe, avec peut-être un petit mot explicatif.
+
+* Page coups de gueule
+
+	Cette page mettra en avant les articles d'actualités qui ont interpellé le groupe, avec peut-être un petit mot explicatif.
+
+* Page presse (apparision TV, magasines, journeaux, grand titre)
+
+
+* Booking
+
+  . Renvoyez vers leur Gigstarter
+
+  . Formaulaire de contact pour réserver
+
+
+* Page Private Policy
 
 #### Structure du client
 
@@ -31,9 +97,9 @@ Ce repo a été créé dans le cadre d'un projet de la HEPL. (https://github.com
     - Streaming
     - Apps
 
-***
 
-#### Plan du site
+***
+## Plan du site
 
 - Page agenda concert
 - Page paroles de leurs chansons
@@ -55,98 +121,24 @@ Ce repo a été créé dans le cadre d'un projet de la HEPL. (https://github.com
 
 ***
 
-
-
-
-## Stratégie
-
-* Objectif
-
-L'objectif traduit par ce site est de se faire connaitre le groupe par le plus grand nombre de personnes et de facilité l'acces au groupe pour un organisateur.
-
-* Page agenda concert
-
-Cette page permettra d'avoir une vue d'ensemble sur l'agenda du groupe, possibilité de trier les dates par lieux, ...
-
-Elle s'organisera comme un agenda calssique, c-a-d avec une liste triée et grouper par date, sous chaque date il y aura l'/les événement(s) lié(s) a cette dernière.
-
-L'événement sera composé d'un titre, d'une description et d'un localisation.
-
-* Page paroles de leurs chansons
-
-Cette page servira à lister premièrement toutes les chansons, avec la possibilité de les écouter.
-
-Quand on cliquera sur la chanson choisie on sera redirigé sur une page avec les paroles pt aussi avec les commentaires du groupes qui expliquera les paroles et peut etre une partie annecdotes sur la musique.
-
-* Bio du groupe
-
-Sur cette page, sera présent la bio du groupe (voir brief). en dessous de ce texte, la photo personnelle de chaque membres du groupe qui redirigera vers la bio personnelle de chaque membres.
-
-     Bio chacun des membres: sur cette page on y retrouvera la description du membre 
-
-
-* Gallerie Photos
-
-Cette page permettra de présenter les photos choisient par le groupe grâce à un carroussel sur la partie haute de la page. Sur la deuxième partie de la page, il y aura une gallerie photo. Quand on cliquera sur cette dernière il y aura une visualisation en plein écran de l'image choisie.
-
-* Gallerie Videos
-
-Idem photo (pt sur la même page)
-
-* Page News
-
-Cette page présentera les articles de presse qui mettent en avant les actualités du groupe.
-
-* Page coups de coeur
-
-Cette page mettra en avant les articles d'actualités qui ont interpellé le groupe, avec peut-être un petit mot explicatif.
-
-* Page coups de gueule
-
-Cette page mettra en avant les articles d'actualités qui ont interpellé le groupe, avec peut-être un petit mot explicatif.
-
-* Page presse (apparision TV, magasines, journeaux, grand titre)
-
-
-* Booking
-
-  . Renvoyez vers leur Gigstarter
-
-  . Formaulaire de contact pour réserver
-
-
-* Page Private Policy
-
-
-
 ## Moodboard
+
 [Lien vers milanote](https://app.milanote.com/1Ld0e91zxVkL5w?p=2tvGwAqP6nK)
 
 ![moodboard](./img/moodboard.png)
 
+
 ## Wireframe
 
-### Accueil
-![accueil](./img/Accueil.png)
-
-### Bio
-![Bio](./img/Bio.png)
-
-### Bio d'un membre
-![Biomb](./img/Bio%20d'un%20membre.png)
-
-### Booking
-![Booking](./img/Booking.png)
-
-### News
-![News](./img/News.png)
-
-### Gallerie
-![Gallerie](./img/Photos_vidéos.png)
+| Accueil |Bio  |Bio d'un membre  |
+|:----------|:----------|:----------|
+| ![accueil](./img/Accueil.png)    | ![Bio](./img/Bio.png)    | ![Biomb](./img/Bio%20d'un%20membre.png)   |
+| Booking    | News    | Gallerie    |
+| ![Booking](./img/Booking.png)    | ![News](./img/News.png)| ![Gallerie](./img/Photos_vidéos.png)   |
 
 ## Prise de note et briefing
 
-## Prise de notes
+### Prise de notes
 
 Pankart est un groupe de rock celtique engagé.
 
@@ -235,6 +227,7 @@ Au vu de ses paroles engagées, le groupe trouve important d'avoir la présence 
     Le format de cette page sera sous forme de "blog", partage d'avis à la façon de twitter, qui allie le visuel du textuel.
 
 <a href="brief.pdf">Brief</a>
+
 
 
 
